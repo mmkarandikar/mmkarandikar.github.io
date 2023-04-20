@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Dark matter modelling
+title: Dark Matter modelling
 description: Using the Schrodinger-Poisson equation to model dark matter
 img: assets/img/3.jpg
 importance: 2
-category: work
+category: Work
 ---
 
 Every project has a beautiful feature showcase page.

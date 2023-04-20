@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Chemically peculiar stars
+title: Chemically Peculiar stars
 description: Spectroscopic investigation of chemical peculiarity
 img: assets/img/7.jpg
-redirect: https://unsplash.com
 importance: 3
-category: work
+category: Work
 ---
 
 Every project has a beautiful feature showcase page.
