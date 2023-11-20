@@ -17,6 +17,9 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+  // font-family: 'Lato', sans-serif;
+  // font-family: 'Alegreya Sans', sans-serif;
+  // font-family: 'Noto Sans JP', sans-serif;
 }
 
 hr {
@@ -117,7 +120,9 @@ blockquote {
   .address {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: monospace;
+    // font-family: monospace;
+    // font-family: 'Cormorant Garamond', serif;
+
 
     p {
       display: inline-block;
@@ -299,10 +304,10 @@ blockquote {
 // Social (bottom)
 
 .social {
-  text-align: center;
-
+  text-align: right;
+  
   .contact-icons {
-    font-size: 4rem;
+    font-size: 2rem;
 
     a {
       i::before {
@@ -312,7 +317,7 @@ blockquote {
 
       &:hover {
         i::before {
-          color: var(--global-theme-color);
+          color: var(--global-hover-color);
         }
       }
     }
@@ -339,7 +344,7 @@ footer.fixed-bottom {
     color: var(--global-footer-link-color);
 
     &:hover {
-      color: var(--global-theme-color);
+      color: var(--global-footer-hover-color);
       text-decoration: none;
     }
   }

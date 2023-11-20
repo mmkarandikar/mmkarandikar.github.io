@@ -29,10 +29,14 @@ $grey-color-dark:     #1C1C1D;
 $grey-900:            #212529;
 
 $white-color: #ffffff !default;
-$black-color: #000000 !default;
+$black-color: #150127 !default;
 
 
 // Theme colors
+$global-bg-color-light: #a0fff4;
+$global-bg-color-dark: #252222;
+$global-theme-color-dark: #c8d180;
 
-$code-bg-color-light:     rgba($purple-color, 0.05);
-$code-bg-color-dark:      #2c3237 !default;
+$global-text-color-light: #e3e3e3;
+$code-bg-color-light: rgba($purple-color, 0.05);
+$code-bg-color-dark: #2c3237 !default;
