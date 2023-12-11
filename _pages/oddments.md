@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 permalink: /oddments/
 title: Oddments
@@ -7,4 +7,4 @@ nav: true
 nav_order: 4
 ---
 
-[Infinie conversation](https://infiniteconversation.com/): An AI-generated conversation between Werner Herzog and Slavoj Žižek.
+[Infinie conversation](https://infiniteconversation.com/): An AI-generated conversation between Werner Herzog and Slavoj Žižek. -->
