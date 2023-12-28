@@ -3,34 +3,33 @@
  ******************************************************************************/
  
 :root {
-  --global-bg-color: #{$global-bg-color-dark};
-  --global-code-bg-color: #{$code-bg-color-dark};
-  --global-text-color: #{$global-text-color-light};
-  --global-text-color-light: #{$grey-color-light};
-  --global-theme-color: #{$global-theme-color-dark};
-  --global-hover-color: #5cb1e9f8;
-  --global-footer-bg-color: #{$global-theme-color-dark};
-  --global-footer-text-color: #{$global-bg-color-dark};
-  --global-footer-hover-color: #270043f8;
-  --global-footer-link-color: #2339ff;
-  --global-distill-app-color: #{$grey-color-light};
-  --global-divider-color: #ffffff;
-  --global-card-bg-color: #{$grey-900};
+  --global-bg-color: #{$global-bg-color-light};
+  --global-code-bg-color: #{$code-bg-color-light};
+  --global-text-color: #{$black-color};
+  --global-text-color-light: #{$grey-color};
+  --global-theme-color: #{$purple-color};
+  --global-hover-color: #{$purple-color};
+  --global-footer-bg-color: #{$grey-color-dark};
+  --global-footer-text-color: #{$grey-color-light};
+  --global-footer-link-color: #{$white-color};
+  --global-distill-app-color: #{$grey-color};
+  --global-divider-color: rgba(0, 0, 0, 0.883);
+  --global-card-bg-color: #{$white-color};
 
   .fa-sun {
+    display : none;
+  }
+  .fa-moon {
     padding-left: 10px;
     padding-top: 12px;
     display : block;
   }
-  .fa-moon {
-    display : none;
-  }
 
   .repo-img-light {
-    display: none;
+    display: block;
   }
   .repo-img-dark {
-    display: block;
+    display: none;
   }
 }
 
