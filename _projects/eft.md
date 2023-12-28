@@ -3,7 +3,7 @@ layout: page
 title: On the EFTofLSS
 description: Testing the assumptions of the EFTofLSS
 # img: assets/img/water_waves.jpg
-importance: 1
+importance: 2
 category: Work
 ---
 <p>An effective theory is an approximate description of a physical system that captures information on relevant scales. To illustrate the idea, consider the problem of describing the motion of water on the surface of an ocean. One approach is to model the water as a fluid, and the surface of the water can be thought of through interacting waves. We call it a large-scale model. Alternatively, one can consider the motion of water as emerging from the interactions of individual water molecules. We call this a small-scale model.

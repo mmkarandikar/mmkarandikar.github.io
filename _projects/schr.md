@@ -3,9 +3,11 @@ layout: page
 title: Dark Matter modelling
 description: Using the Schr&#246;dinger-Poisson equations to model dark matter
 # img: assets/img/3.jpg
-importance: 2
+importance: 3
 category: Work
 ---
+<!-- <img src="/assets/img/icon_pdf.svg" width="20" height="20"> -->
+<a href="/assets/pdf/karandikar_master_thesis.pdf">Master Thesis</a>
 
 <p>
 Dark matter is the hypothesised invisible, non-baryonic matter whose presence is inferred from (among other pieces of evidence) the difference between the visible and gravitational mass of galaxy clusters in the Universe. The nature of dark matter is a major unsolved problem in Cosmology and Particle Physics. Many proposed particles are viable, varying in mass from primordial black holes (or the less speculative Weakly-Interacting Massive Particles; WIMPs) to axions. Dark matter is generally assumed to be <i>cold</i> (CDM), i.e., without velocity dispersion. This is known to be only an approximation as non-linear gravitational dynamics will introduce non-zero velocity dispersion even if it is initially zero<sup><a href="#footnote-1">1</a></sup>.
