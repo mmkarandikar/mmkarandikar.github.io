@@ -8,6 +8,6 @@ category: Fun
 ---
 
 <iframe 
-  src="https://cdn.jsdelivr.net/gh/mmkarandikar/chess_engine@main/index.html"
+  src="https://cdn.jsdelivr.net/gh/mmkarandikar/chess_engine@main/frontend/index.html"
   style="width:100%; height:600px; border:none;"
 ></iframe>
