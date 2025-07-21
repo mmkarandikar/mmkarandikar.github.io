@@ -4,7 +4,7 @@ title: Dark Matter modelling
 description: Using the Schr&#246;dinger-Poisson equations to model dark matter
 # img: assets/img/3.jpg
 importance: 3
-category: Work
+category: Academic
 ---
 <!-- <img src="/assets/img/icon_pdf.svg" width="20" height="20"> -->
 <!-- <a href="/assets/pdf/karandikar_master_thesis.pdf">Master Thesis</a> -->
